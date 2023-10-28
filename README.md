@@ -1,2 +1,1 @@
-# Router_project
-This project shows how a router with a static ARP table works.
+Repository for the first homework of the Communication Networks class. In this homework the students will implement the dataplane of a router.
